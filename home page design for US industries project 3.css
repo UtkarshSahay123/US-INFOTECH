@@ -1,0 +1,30 @@
+body{
+                            background-image: url("home page gif.GIF");
+                            background-repeat: no-repeat;
+                            background-size:cover
+
+
+
+    }
+
+    h1{
+               color:white
+           
+ }
+
+div{
+        background-color:light blue;
+        height: 5%;
+        width: 50%;
+        text-indent: 50px;
+        color: white;
+
+        border-left: 6px solid white;
+        font-size:20px;
+        text-decoration:none;
+    }
+
+
+a{
+     color:white
+     

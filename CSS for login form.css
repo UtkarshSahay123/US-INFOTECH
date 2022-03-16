@@ -1,0 +1,43 @@
+body{
+                            background-image: url("login form picture.gif");
+                            background-repeat: no-repeat;
+                            background-size:cover
+}
+
+h1{
+
+color:white
+
+}
+
+
+div{
+        background-color:light blue;
+        height: 5%;
+        width: 50%;
+        text-indent: 50px;
+        color: white;
+
+        border-left: 6px solid white;
+        font-size:20px;
+        text-decoration:none;
+    }
+
+
+a{
+     color:white
+    
+}
+
+form{
+       color:white
+    
+}
+
+
+        #button{ 
+       padding-top: 8px;
+      background-color: white;
+      font-size: 15px;
+      border-radius: 10px;
+    }
